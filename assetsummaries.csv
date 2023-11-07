@@ -1,0 +1,34 @@
+Ticker,Summary,Label,Confidence,URL
+GME,Have you tried going to Newsround?,NEGATIVE,0.9915708303451538,https://www.barrons.com/articles/gamestop-stock-price-ryan-cohen-aa31dd8b
+GME,Cohen elected as executive chairman of the company in June. Activist investor previously founded and was CEO Chewy,POSITIVE,0.9967880249023438,https://www.marketwatch.com/story/gamestop-stock-soars-after-ryan-cohen-named-ceo-b37f71be
+GME,"A judge upholds minimum wage for New York City delivery workers. Tesla sued for racial harassment, but won’t comment",NEGATIVE,0.6145312190055847,https://qz.com/emails/daily-brief/1850885687/memeing-to-the-top
+GME,Best Credit Cards for You Best Rewards Credit Cards Best 0% APR Credit Cards Best Balance Transfer Credit Cards,POSITIVE,0.998146653175354,https://www.cnbc.com/2023/09/28/gamestop-names-ryan-cohen-as-ceo-effective-immediately.html
+GME,"Chewy founder to serve as CEO, but won’t be compensated. Video game retailer has had a string of CEO changes since 2021",NEGATIVE,0.6854579448699951,https://www.forbes.com/sites/maryroeloffs/2023/09/28/billionaire-chair-ryan-cohen-named-gamestop-ceo-years-after-meme-stock-surge/
+GME,"Jabil, Peloton, Workday, Micron slip on mixed results.",NEGATIVE,0.9995985627174377,https://seekingalpha.com/news/4016093-biggest-stock-movers-today-peloton-micron-technology-and-more
+GME,All images are copyrighted.,NEGATIVE,0.9880996346473694,https://www.google.com/search?q%3Dyahoo%2Bfinance%2BGME%26sca_esv%3D569660528%26tbm%3Dnws%26pccc%3D1
+GME,Mangalore is set to get a new airport.,NEGATIVE,0.9141563177108765,https://www.daijiworld.com/news/newsDisplay%3FnewsID%3D1125375
+GME,"Ryan Cohen to take over as CEO, chairman of the video game retailer.",POSITIVE,0.996704638004303,https://www.moneycontrol.com/news/trends/gamestop-ceo-ryan-cohen-will-get-zero-salary-his-email-to-staff-11449581.html
+GME,.,POSITIVE,0.9668781757354736,https://www.thestreet.com/memestocks/gme/gamestop-stock-danger-ahead-for-short-sellers
+GME,Ryan Cohen appointed as CEO and Chairman of the company.,POSITIVE,0.9984606504440308,https://www.news18.com/viral/american-gaming-company-appoints-new-ceo-but-wont-pay-him-any-salary-8597177.html
+TSLA,Best Credit Cards for You Best Rewards Credit Cards Best 0% APR Credit Cards Best Balance Transfer Credit Cards,POSITIVE,0.998146653175354,https://www.cnbc.com/2023/09/29/stocks-making-the-biggest-moves-midday-tsla-nke-ccl-nvda.html
+TSLA,"Candidates can apply for jobs at Tesla, Tesla AI, or any other company.",NEGATIVE,0.729343056678772,https://www.latestly.com/socially/technology/x-recruitment-feature-elon-musk-shares-early-stage-of-new-job-recruiment-platform-5450623.html
+TSLA,Tesla currently priced at $250.16 has provided a return of +103.35% in this calendar year.,POSITIVE,0.9515891075134277,https://www.livemint.com/market/live-blog/tesla-stock-price-live-updates-check-all-the-latest-updates-and-share-price-for-tesla-stock-on-29-sep-2023-11695993420506.html
+TSLA,Tesla may miss targets for third-quarter deliveries. AMD’s stock is set to continue its ascent on Friday,NEGATIVE,0.9896793365478516,https://uk.finance.yahoo.com/news/tesla-amd-jd-sport-severn-trent-trending-tickers-121718397.html
+TSLA,ChatGPT suggests that Tesla’s Cybertruck could have a positive impact on stock price.,NEGATIVE,0.8962414860725403,https://finbold.com/chatgpt-predicts-tesla-stock-price-after-cybertruck-launch/
+TSLA,Rough Rough cut (no reporter narration),NEGATIVE,0.9994315505027771,https://www.wsj.com/finance/stocks/how-much-is-tesla-worth-you-decide-78b25ab1
+TSLA,All images are copyrighted.,NEGATIVE,0.9880996346473694,https://www.google.com/search?q%3Dyahoo%2Bfinance%2BTSLA%26sca_esv%3D569660528%26tbm%3Dnws%26pccc%3D1
+TSLA,Have you tried going to Newsround?,NEGATIVE,0.9915708303451538,https://www.barrons.com/articles/tesla-stock-price-deliveries-d066a8a3
+TSLA,All photographs are copyrighted.,NEGATIVE,0.9776006937026978,https://www.investors.com/market-trend/stock-market-today/dow-jones-rises-as-inflation-steps-closer-to-fed-target-tesla-rises-ahead-of-deliveries/
+TSLA,"Earnings per share could fall to $0.71 in third quarter, bank says.",NEGATIVE,0.9968737363815308,https://markets.businessinsider.com/news/stocks/tesla-stock-price-target-deutsche-bank-deliveries-production-outlook-ev-2023-9
+TSLA,Chinese EV maker BYD recently reported better-than-expected results. State of the Chinese economy will be another key variable in the equation,POSITIVE,0.9969659447669983,https://www.fool.com/investing/2023/09/29/1-ev-stock-to-buy-hand-over-fist-right-now-hint-it/
+BTC,"Yield-bearing Bitcoin Minetrix to be biggest winner after raising $200,000.",POSITIVE,0.994099497795105,https://finance.yahoo.com/news/bitcoin-price-climbs-3-us-164800533.html
+BTC,"CoinDesk DeFi Index leads crypto rally with 5.5% gain. LDO, ARB, AAVE, MKR among top gainers",POSITIVE,0.9606256484985352,https://finance.yahoo.com/news/bitcoin-tops-27k-rates-oil-191951661.html
+BTC,The U.S. dollar index reached a 10-month high on Thursday. Ether also made up some ground after hitting a seven-day high on Wednesday,POSITIVE,0.9810195565223694,https://finance.yahoo.com/news/bitcoin-ether-edge-wall-street-021354224.html
+BTC,Bitcoin-Ether implied volatility spread has been negative for 20 days,NEGATIVE,0.9996230602264404,https://finance.yahoo.com/news/bitcoins-implied-volatility-gauge-tops-081331922.html
+BTC,Largest crypto by market capitalization is up 3.2% in September. Ethereum to go live next week as futures-based ETF planned,NEGATIVE,0.9403278231620789,https://finance.yahoo.com/news/bitcoin-slips-below-27k-might-192730902.html
+BTC,"ordinary shares and warrants will begin trading on Nasdaq under the ticker symbols ""BTCT"" and ""BTCTW"".",NEGATIVE,0.9920476078987122,https://finance.yahoo.com/news/btc-digital-ltd-change-ticker-123000472.html
+BTC,All images are copyrighted.,NEGATIVE,0.9880996346473694,https://www.google.com/search?q%3Dyahoo%2Bfinance%2BBTC%26sca_esv%3D569660528%26tbm%3Dnws%26pccc%3D1
+BTC,"Revenues were lower due to weakness in cryptocurrency markets. Average dollar value of BTC mined in 2023 was $23,740.44",NEGATIVE,0.998678982257843,https://finance.yahoo.com/news/integrated-ventures-reports-3-862-140000828.html
+BTC,We are aware of the issue and are working to resolve it.,POSITIVE,0.9979088306427002,https://finance.yahoo.com/video/bitcoin-nio-rite-aid-top-172706782.html
+BTC,"New crypto presale offers no-fuss, no-rigs, low-cost stake-to-mine token.",NEGATIVE,0.9977009892463684,https://finance.yahoo.com/news/bitcoin-price-struggles-near-26-180400615.html
+BTC,Regulator delays decision on ARK 21Shares Bitcoin ETF application.,NEGATIVE,0.9968666434288025,https://uk.finance.yahoo.com/news/bitcoin-price-spot-bitcoin-etf-blackrock-fideility-ark-invest-100608842.html
